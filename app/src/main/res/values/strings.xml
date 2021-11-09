@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pruebaFalsa</string>
+    <string-array name="origen">
+        <item>......</item>
+        <item>Arica</item>
+        <item>Talca</item>
+        <item>Santiago</item>
+        <item>copiapo</item>
+    </string-array>
+    <string name="title_activity_mapa">mapa</string>
+</resources>
